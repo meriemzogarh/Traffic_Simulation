@@ -1,0 +1,16 @@
+import uuid
+import pandas as pd
+
+class Configurator:
+    def __init__(self, csv_path):
+        self.df = pd.read_csv(csv_path)
+
+    def get_default_config(self, value):
+        default_config = {
+            0: {"l": 4, "s0": 0.0001, "T": 0.2, "v_max": 2, "a_max": 0.5, "b_max": 4.61},
+            1: {"l": 4, "s0": 0.01, "T": 0.2, "v_max": 4, "a_max": 1, "b_max": 4.61},
+            2: {"l": 4, "s0": 0.001, "T": 0.2, "v_max": 3, "a_max": 0.8, "b_max": 4.61},
+            3: {"l": 4, "s0": 0.05, "T": 0.2, "v_max": 4, "a_max": 0.7, "b_max": 4.61},
+            4: {"l": 4, "s0": 0.1, "T": 0.4, "v_max": 6, "a_max": 0.7, "b_max": 4.61},
+        }
+        return default_config.get(value, {})

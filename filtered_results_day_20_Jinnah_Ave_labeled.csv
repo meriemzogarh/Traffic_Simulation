@@ -1,0 +1,213 @@
+Date,Day_str,Day,Month,Year,Hour,Minute,Second,Destination_Location,Fastest_Route_Name,Holiday,Special_Condition,Starting_Location,Weather,Hour_of_Day,Actual,Predicted,Predicted_Category
+7,4,20,2,2020,7,31,52,missile chowk,1,0,0,jamia masjid,Partly Cloudy,7,0,0,smooth
+7,4,20,2,2020,12,43,31,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,12,1,0,slightly congested
+7,4,20,2,2020,11,27,53,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,11,2,0,congested
+7,4,20,2,2020,12,5,10,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,9,5,26,missile chowk,1,0,0,jamia masjid,Partly Cloudy,9,0,0,smooth
+7,4,20,2,2020,15,33,49,pak turk maarif international school,1,0,0,childrens park,Showers,15,3,3,highly congested
+7,4,20,2,2020,12,47,4,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,12,4,3,blockage
+7,4,20,2,2020,11,35,19,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,2,53,22,jamia masjid,1,0,0,pak turk maarif international school,Showers,2,0,0,smooth
+7,4,20,2,2020,6,54,20,childrens park,1,0,0,bahria foundation school,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,1,54,8,missile chowk,1,0,0,jamia masjid,Showers,1,0,0,smooth
+7,4,20,2,2020,13,40,33,missile chowk,1,0,0,jamia masjid,Cloudy,13,0,0,smooth
+7,4,20,2,2020,8,31,2,childrens park,1,0,0,bahria foundation school,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,5,48,11,missile chowk,1,0,0,jamia masjid,Partly Cloudy,5,0,0,smooth
+7,4,20,2,2020,2,30,50,pak turk maarif international school,1,0,0,childrens park,Rain,2,3,3,highly congested
+7,4,20,2,2020,1,1,11,missile chowk,1,0,0,jamia masjid,Showers,1,0,0,smooth
+7,4,20,2,2020,2,49,6,childrens park,1,0,0,bahria foundation school,Showers,2,3,3,highly congested
+7,4,20,2,2020,14,18,15,jamia masjid,1,0,0,pak turk maarif international school,Showers,14,2,2,congested
+7,4,20,2,2020,11,8,31,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,7,9,13,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,3,4,28,jamia masjid,1,0,0,pak turk maarif international school,Showers,3,0,0,smooth
+7,4,20,2,2020,7,39,12,missile chowk,1,0,0,jamia masjid,Partly Cloudy,7,0,0,smooth
+7,4,20,2,2020,1,49,53,pak turk maarif international school,1,0,0,childrens park,Showers,1,3,3,highly congested
+7,4,20,2,2020,4,55,13,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,14,3,23,missile chowk,1,0,0,jamia masjid,Cloudy,14,2,0,congested
+7,4,20,2,2020,9,45,35,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,9,3,3,highly congested
+7,4,20,2,2020,8,57,2,childrens park,1,0,0,bahria foundation school,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,7,53,30,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,5,25,44,missile chowk,1,0,0,jamia masjid,Showers,5,0,0,smooth
+7,4,20,2,2020,13,40,17,jamia masjid,1,0,0,pak turk maarif international school,Cloudy,13,2,2,congested
+7,4,20,2,2020,13,51,27,childrens park,1,0,0,bahria foundation school,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,0,57,27,jamia masjid,1,0,0,pak turk maarif international school,Showers,0,0,0,smooth
+7,4,20,2,2020,16,0,12,pak turk maarif international school,1,0,0,childrens park,Showers,16,3,3,highly congested
+7,4,20,2,2020,14,36,29,childrens park,1,0,0,bahria foundation school,Showers,14,3,3,highly congested
+7,4,20,2,2020,11,4,29,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,9,57,40,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,9,0,0,smooth
+7,4,20,2,2020,13,32,15,jamia masjid,1,0,0,pak turk maarif international school,Cloudy,13,2,2,congested
+7,4,20,2,2020,15,44,54,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,13,47,38,childrens park,1,0,0,bahria foundation school,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,13,39,59,pak turk maarif international school,1,0,0,childrens park,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,11,16,18,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,11,2,2,congested
+7,4,20,2,2020,15,59,56,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,0,34,11,childrens park,1,0,0,bahria foundation school,Showers,0,3,3,highly congested
+7,4,20,2,2020,5,21,45,jamia masjid,1,0,0,pak turk maarif international school,Showers,5,0,0,smooth
+7,4,20,2,2020,6,32,53,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,14,29,18,jamia masjid,1,0,0,pak turk maarif international school,Showers,14,2,2,congested
+7,4,20,2,2020,7,50,20,missile chowk,1,0,0,jamia masjid,Partly Cloudy,7,0,0,smooth
+7,4,20,2,2020,14,55,59,missile chowk,1,0,0,jamia masjid,Showers,14,0,0,smooth
+7,4,20,2,2020,15,52,22,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,15,14,28,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,10,19,51,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,10,0,0,smooth
+7,4,20,2,2020,6,54,34,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,12,58,9,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,2,16,35,missile chowk,1,0,0,jamia masjid,Rain,2,0,0,smooth
+7,4,20,2,2020,2,38,33,jamia masjid,1,0,0,pak turk maarif international school,Rain,2,0,0,smooth
+7,4,20,2,2020,7,9,0,childrens park,1,0,0,bahria foundation school,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,11,27,35,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,9,23,3,childrens park,1,0,0,bahria foundation school,Partly Cloudy,9,3,3,highly congested
+7,4,20,2,2020,2,45,21,childrens park,1,0,0,bahria foundation school,Showers,2,3,3,highly congested
+7,4,20,2,2020,9,34,50,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,9,0,0,smooth
+7,4,20,2,2020,16,7,30,childrens park,1,0,0,bahria foundation school,Showers,16,3,3,highly congested
+7,4,20,2,2020,7,53,15,childrens park,1,0,0,bahria foundation school,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,6,2,28,childrens park,1,0,0,bahria foundation school,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,6,28,35,childrens park,1,0,0,bahria foundation school,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,3,30,7,jamia masjid,1,0,0,pak turk maarif international school,Showers,3,0,0,smooth
+7,4,20,2,2020,11,0,41,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,13,24,55,jamia masjid,1,0,0,pak turk maarif international school,Cloudy,13,2,2,congested
+7,4,20,2,2020,15,26,23,jamia masjid,1,0,0,pak turk maarif international school,Showers,15,0,2,smooth
+7,4,20,2,2020,9,20,16,missile chowk,1,0,0,jamia masjid,Partly Cloudy,9,0,0,smooth
+7,4,20,2,2020,4,47,54,jamia masjid,1,0,0,pak turk maarif international school,Showers,4,0,0,smooth
+7,4,20,2,2020,1,31,38,missile chowk,1,0,0,jamia masjid,Showers,1,0,0,smooth
+7,4,20,2,2020,6,32,22,childrens park,1,0,0,bahria foundation school,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,15,7,42,missile chowk,1,0,0,jamia masjid,Showers,15,0,0,smooth
+7,4,20,2,2020,10,30,54,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,3,3,55,childrens park,1,0,0,bahria foundation school,Showers,3,3,3,highly congested
+7,4,20,2,2020,4,6,38,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,13,59,25,jamia masjid,1,0,0,pak turk maarif international school,Cloudy,13,2,2,congested
+7,4,20,2,2020,1,39,7,missile chowk,1,0,0,jamia masjid,Showers,1,0,0,smooth
+7,4,20,2,2020,1,16,20,jamia masjid,1,0,0,pak turk maarif international school,Showers,1,0,0,smooth
+7,4,20,2,2020,13,25,12,missile chowk,1,0,0,jamia masjid,Cloudy,13,0,0,smooth
+7,4,20,2,2020,2,35,15,missile chowk,1,0,0,jamia masjid,Rain,2,0,0,smooth
+7,4,20,2,2020,10,8,19,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,6,58,47,missile chowk,1,0,0,jamia masjid,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,9,27,10,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,9,3,3,highly congested
+7,4,20,2,2020,3,23,8,missile chowk,1,0,0,jamia masjid,Showers,3,0,0,smooth
+7,4,20,2,2020,15,33,38,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,9,12,12,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,9,3,3,highly congested
+7,4,20,2,2020,0,19,36,missile chowk,1,0,0,jamia masjid,Showers,0,0,0,smooth
+7,4,20,2,2020,10,27,19,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,4,40,18,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,4,32,59,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,4,10,47,jamia masjid,1,0,0,pak turk maarif international school,Showers,4,0,0,smooth
+7,4,20,2,2020,15,26,1,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,3,41,6,jamia masjid,1,0,0,pak turk maarif international school,Showers,3,0,0,smooth
+7,4,20,2,2020,16,19,6,jamia masjid,1,0,0,pak turk maarif international school,Showers,16,0,2,smooth
+7,4,20,2,2020,8,38,38,childrens park,1,0,0,bahria foundation school,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,14,51,45,pak turk maarif international school,1,0,0,childrens park,Showers,14,3,3,highly congested
+7,4,20,2,2020,2,20,27,missile chowk,1,0,0,jamia masjid,Rain,2,0,0,smooth
+7,4,20,2,2020,8,5,17,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,8,2,2,congested
+7,4,20,2,2020,15,23,0,missile chowk,1,0,0,jamia masjid,Showers,15,0,0,smooth
+7,4,20,2,2020,7,38,39,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,8,46,16,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,13,13,18,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,13,3,3,highly congested
+7,4,20,2,2020,10,53,57,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,10,0,0,smooth
+7,4,20,2,2020,13,13,32,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,13,2,2,congested
+7,4,20,2,2020,3,22,21,childrens park,1,0,0,bahria foundation school,Showers,3,3,3,highly congested
+7,4,20,2,2020,13,1,55,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,13,3,3,highly congested
+7,4,20,2,2020,3,15,31,jamia masjid,1,0,0,pak turk maarif international school,Showers,3,0,0,smooth
+7,4,20,2,2020,15,18,17,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,15,18,37,pak turk maarif international school,1,0,0,childrens park,Showers,15,3,3,highly congested
+7,4,20,2,2020,0,26,21,childrens park,1,0,0,bahria foundation school,Showers,0,3,3,highly congested
+7,4,20,2,2020,5,21,12,childrens park,1,0,0,bahria foundation school,Showers,5,3,3,highly congested
+7,4,20,2,2020,14,13,53,childrens park,1,0,0,bahria foundation school,Showers,14,3,3,highly congested
+7,4,20,2,2020,5,17,42,pak turk maarif international school,1,0,0,childrens park,Showers,5,3,3,highly congested
+7,4,20,2,2020,15,56,11,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,8,19,40,childrens park,1,0,0,bahria foundation school,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,6,10,25,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,6,21,12,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,6,43,33,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,2,0,42,childrens park,1,0,0,bahria foundation school,Showers,2,3,3,highly congested
+7,4,20,2,2020,4,3,21,missile chowk,1,0,0,jamia masjid,Showers,4,0,0,smooth
+7,4,20,2,2020,2,4,45,pak turk maarif international school,1,0,0,childrens park,Showers,2,3,3,highly congested
+7,4,20,2,2020,10,53,38,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,10,2,2,congested
+7,4,20,2,2020,3,26,38,missile chowk,1,0,0,jamia masjid,Showers,3,0,0,smooth
+7,4,20,2,2020,4,21,57,jamia masjid,1,0,0,pak turk maarif international school,Showers,4,0,0,smooth
+7,4,20,2,2020,13,2,34,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,13,2,0,congested
+7,4,20,2,2020,12,5,30,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,12,2,2,congested
+7,4,20,2,2020,4,40,50,missile chowk,1,0,0,jamia masjid,Showers,4,0,0,smooth
+7,4,20,2,2020,4,55,24,jamia masjid,1,0,0,pak turk maarif international school,Showers,4,0,0,smooth
+7,4,20,2,2020,11,46,28,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,10,8,36,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,7,38,23,childrens park,1,0,0,bahria foundation school,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,13,17,27,jamia masjid,1,0,0,pak turk maarif international school,Cloudy,13,2,2,congested
+7,4,20,2,2020,1,5,8,missile chowk,1,0,0,jamia masjid,Showers,1,0,0,smooth
+7,4,20,2,2020,14,33,22,missile chowk,1,0,0,jamia masjid,Showers,14,0,0,smooth
+7,4,20,2,2020,4,47,37,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,1,38,50,jamia masjid,1,0,0,pak turk maarif international school,Showers,1,0,0,smooth
+7,4,20,2,2020,11,16,34,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,11,0,0,smooth
+7,4,20,2,2020,6,13,48,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,6,21,46,missile chowk,1,0,0,jamia masjid,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,10,16,13,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,10,2,0,congested
+7,4,20,2,2020,4,32,41,childrens park,1,0,0,bahria foundation school,Showers,4,3,3,highly congested
+7,4,20,2,2020,12,50,47,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,10,27,32,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,10,0,0,smooth
+7,4,20,2,2020,0,30,26,childrens park,1,0,0,bahria foundation school,Showers,0,3,3,highly congested
+7,4,20,2,2020,11,5,6,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,11,0,0,smooth
+7,4,20,2,2020,14,47,56,childrens park,1,0,0,bahria foundation school,Showers,14,3,3,highly congested
+7,4,20,2,2020,14,14,9,pak turk maarif international school,1,0,0,childrens park,Showers,14,3,3,highly congested
+7,4,20,2,2020,11,58,18,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,11,0,0,smooth
+7,4,20,2,2020,14,28,56,childrens park,1,0,0,bahria foundation school,Showers,14,3,3,highly congested
+7,4,20,2,2020,6,47,26,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,12,24,2,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,12,2,2,congested
+7,4,20,2,2020,15,33,58,jamia masjid,1,0,0,pak turk maarif international school,Showers,15,2,2,congested
+7,4,20,2,2020,15,7,27,jamia masjid,1,0,0,pak turk maarif international school,Showers,15,2,2,congested
+7,4,20,2,2020,5,36,7,childrens park,1,0,0,bahria foundation school,Partly Cloudy,5,3,3,highly congested
+7,4,20,2,2020,16,11,43,jamia masjid,1,0,0,pak turk maarif international school,Showers,16,2,2,congested
+7,4,20,2,2020,4,10,33,pak turk maarif international school,1,0,0,childrens park,Showers,4,3,3,highly congested
+7,4,20,2,2020,10,12,1,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,0,11,45,jamia masjid,1,0,0,pak turk maarif international school,Showers,0,0,0,smooth
+7,4,20,2,2020,5,24,56,childrens park,1,0,0,bahria foundation school,Showers,5,3,3,highly congested
+7,4,20,2,2020,12,12,41,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,0,38,31,jamia masjid,1,0,0,pak turk maarif international school,Showers,0,0,0,smooth
+7,4,20,2,2020,11,24,19,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,11,0,0,smooth
+7,4,20,2,2020,10,57,44,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,10,0,0,smooth
+7,4,20,2,2020,10,49,15,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,10,3,3,highly congested
+7,4,20,2,2020,6,40,14,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,6,10,39,missile chowk,1,0,0,jamia masjid,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,12,42,58,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,4,43,41,childrens park,1,0,0,bahria foundation school,Showers,4,3,3,highly congested
+7,4,20,2,2020,11,31,23,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,6,17,10,childrens park,1,0,0,bahria foundation school,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,5,40,43,missile chowk,1,0,0,jamia masjid,Partly Cloudy,5,0,0,smooth
+7,4,20,2,2020,12,20,42,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,12,0,0,smooth
+7,4,20,2,2020,5,10,12,pak turk maarif international school,1,0,0,childrens park,Showers,5,3,3,highly congested
+7,4,20,2,2020,12,13,13,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,12,0,0,smooth
+7,4,20,2,2020,15,6,51,childrens park,1,0,0,bahria foundation school,Showers,15,3,3,highly congested
+7,4,20,2,2020,4,54,56,childrens park,1,0,0,bahria foundation school,Showers,4,3,3,highly congested
+7,4,20,2,2020,4,33,14,jamia masjid,1,0,0,pak turk maarif international school,Showers,4,0,0,smooth
+7,4,20,2,2020,8,53,32,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,15,22,42,jamia masjid,1,0,0,pak turk maarif international school,Showers,15,0,0,smooth
+7,4,20,2,2020,8,1,4,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,8,3,3,highly congested
+7,4,20,2,2020,5,43,50,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,5,3,3,highly congested
+7,4,20,2,2020,1,19,48,pak turk maarif international school,1,0,0,childrens park,Showers,1,3,3,highly congested
+7,4,20,2,2020,5,7,3,missile chowk,1,0,0,jamia masjid,Showers,5,0,0,smooth
+7,4,20,2,2020,13,55,48,missile chowk,1,0,0,jamia masjid,Cloudy,13,0,0,smooth
+7,4,20,2,2020,12,35,28,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,12,2,2,congested
+7,4,20,2,2020,6,39,58,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,2,34,20,childrens park,1,0,0,bahria foundation school,Rain,2,3,3,highly congested
+7,4,20,2,2020,7,49,45,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,7,3,3,highly congested
+7,4,20,2,2020,5,14,15,jamia masjid,1,0,0,pak turk maarif international school,Showers,5,0,0,smooth
+7,4,20,2,2020,6,51,24,missile chowk,1,0,0,jamia masjid,Partly Cloudy,6,0,0,smooth
+7,4,20,2,2020,11,23,44,pak turk maarif international school,1,0,0,childrens park,Mostly Cloudy,11,3,3,highly congested
+7,4,20,2,2020,0,45,41,pak turk maarif international school,1,0,0,childrens park,Showers,0,3,3,highly congested
+7,4,20,2,2020,5,18,16,missile chowk,1,0,0,jamia masjid,Showers,5,0,0,smooth
+7,4,20,2,2020,2,41,39,childrens park,1,0,0,bahria foundation school,Rain,2,3,3,highly congested
+7,4,20,2,2020,13,55,27,pak turk maarif international school,1,0,0,childrens park,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,9,19,59,jamia masjid,1,0,0,pak turk maarif international school,Partly Cloudy,9,0,0,smooth
+7,4,20,2,2020,14,6,39,pak turk maarif international school,1,0,0,childrens park,Showers,14,3,3,highly congested
+7,4,20,2,2020,3,22,37,pak turk maarif international school,1,0,0,childrens park,Showers,3,3,3,highly congested
+7,4,20,2,2020,11,8,46,jamia masjid,1,0,0,pak turk maarif international school,Mostly Cloudy,11,0,0,smooth
+7,4,20,2,2020,13,43,47,pak turk maarif international school,1,0,0,childrens park,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,13,28,25,pak turk maarif international school,1,0,0,childrens park,Cloudy,13,3,3,highly congested
+7,4,20,2,2020,7,28,10,missile chowk,1,0,0,jamia masjid,Partly Cloudy,7,0,0,smooth
+7,4,20,2,2020,8,20,28,missile chowk,1,0,0,jamia masjid,Partly Cloudy,8,0,0,smooth
+7,4,20,2,2020,6,47,10,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,12,19,49,childrens park,1,0,0,bahria foundation school,Mostly Cloudy,12,3,3,highly congested
+7,4,20,2,2020,13,13,47,missile chowk,1,0,0,jamia masjid,Mostly Cloudy,13,0,0,smooth
+7,4,20,2,2020,0,8,38,missile chowk,1,0,0,jamia masjid,Showers,0,0,0,smooth
+7,4,20,2,2020,1,35,2,jamia masjid,1,0,0,pak turk maarif international school,Showers,1,0,0,smooth
+7,4,20,2,2020,0,15,15,pak turk maarif international school,1,0,0,childrens park,Showers,0,3,3,highly congested
+7,4,20,2,2020,6,36,20,pak turk maarif international school,1,0,0,childrens park,Partly Cloudy,6,3,3,highly congested
+7,4,20,2,2020,16,0,29,jamia masjid,1,0,0,pak turk maarif international school,Showers,16,0,2,smooth
