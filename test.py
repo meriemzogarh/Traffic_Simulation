@@ -7,7 +7,7 @@ from queue import Queue
 import pandas as pd
 
 # Path to your CSV file
-csv_file_path = "/Users/merry/Desktop/traffic_prediction/filtered_results_day_20_Jinnah_Ave_labeled.csv"
+csv_file_path = "filtered_results_day_20_Jinnah_Ave_labeled.csv"
 
 # Read the CSV file
 df = pd.read_csv(csv_file_path)
